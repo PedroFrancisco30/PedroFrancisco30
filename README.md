@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1> - Olá, eu sou Pedro Francisco Sousa Silva</h1>
 
-<!--
-**PedroFrancisco30/PedroFrancisco30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4> 
+  - Estudante de Engenharia de Computação no CEFET-MG (Centro Federal de Educação Tecnológica de Minas Gerais) Campus V <br>
+  - Entusiasta de programação, tecnologia e inovação <br>
+  - Sempre em busca de aprender e crescer na área da computação <br>
+  - Inglês básico
+</h4>
 
-Here are some ideas to get you started:
+<div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1eiraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1eiraz&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=3600"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> - Skills: </h2>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c,python,java,mint,vscode,idea,git,github" alt="Habilidades" />
+  </a>
+
+<h2> - Como entrar em contato comigo: </h2> 
+  <a href="https://www.linkedin.com/in/pedro-francisco-sousa-silva-33aa37277/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> 
+  </a>
+  
+  <a href="mailto:pedrofrancisco3010@gmail.com" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/> 
+  </a> 

@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-  <a href="[https://www.linkedin.com/in/SEU_PERFIL_AQUI/](https://www.linkedin.com/in/pedro-francisco-sousa-silva-33aa37277/)" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-francisco-sousa-silva-33aa37277/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:pedrofrancisco3010@gmail.com" target="_blank">
